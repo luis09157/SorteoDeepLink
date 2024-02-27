@@ -1,9 +1,9 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.ninodev.simuladorviaje",
-      "sha256_cert_fingerprints":
-      ["05:57:94:46:9C:8D:18:4B:22:CC:DD:4B:5A:C3:2A:45:85:54:C1:06:2A:33:A4:1A:8D:A7:07:31:06:EA:89:0C"]
-    }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ninodev.simuladorviaje",
+    "sha256_cert_fingerprints":
+    ["05:57:94:46:9C:8D:18:4B:22:CC:DD:4B:5A:C3:2A:45:85:54:C1:06:2A:33:A4:1A:8D:A7:07:31:06:EA:89:0C"]
+  }
+}]
